@@ -1,0 +1,1 @@
+import{t as e}from"./directory-DTv7NWkO.js";e(document.querySelector(`#standalone-directory`));

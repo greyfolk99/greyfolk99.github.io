@@ -1,1 +1,0 @@
-import{t as e}from"./directory-CfKcCBS6.js";e(document.querySelector(`#standalone-directory`));
